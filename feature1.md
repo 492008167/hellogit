@@ -1,2 +1,2 @@
-# feature1
-## only for feature1
+# feature2
+## only for feature2
